@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/logo.svg" width="50%" />
+  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/logo.svg" width="25%" />
 </p>
 <div align="center">
 
@@ -7,4 +7,12 @@
 [ **中文** ](https://github.com/OpenCSGs/.github/blob/main/profile/README.md) | [ **HuggingFace** ](https://huggingface.co/opencsg) | [ **OpenCSG Community** ](https://portal.opencsg.com/models) | [ **OpenCSG** ](https://www.opencsg.com/)
 </div>
 
-## Hi there 👋
+#### OpenCSG
+OpenCSG stands for Converged resources, Software refined, and Generative LM. The 'C' represents Converged resources, indicating the integration and full utilization of hybrid resources. The 'S' stands for Software refined, signifying software that is refined by large models. The 'G' represents Generative LM, which denotes widespread, inclusive, and democratized generative large models.
+
+The vision of OpenCSG is to empower every industry, every company, and every individual to own their models. We adhere to the principles of openness and open source, making the large model software stack of OpenCSG available to the community. We welcome everyone to use, feedback, and collaborative contribute.
+
+<p align="center">
+  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/vision.png" width="15%" />
+</p>
+<div align="center">
