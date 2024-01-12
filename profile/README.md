@@ -11,6 +11,6 @@
 ## OpenCSG OpenSource Projects
 
 <p align="center">
-  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/vision.png" width="50%" />
+  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/vision.png" width="25%" />
 </p>
 <div align="center">
