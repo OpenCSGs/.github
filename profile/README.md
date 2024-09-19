@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/logo.svg" width="25%" />
+  <img src="https://github.com/OpenCSGs/.github/blob/main/profile/logo.jpg" width="25%" />
 </p>
 <div align="center">
 
