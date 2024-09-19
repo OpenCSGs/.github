@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-[ **English** ](https://github.com/OpenCSGs/.github/blob/main/profile/README_EN.md) | [ **HuggingFace** ](https://huggingface.co/opencsg) | [ **传神社区** ](https://portal.opencsg.com/models) | [ **公司主页** ](https://www.opencsg.com/)
+[ **OpenCSG传神社区** ](https://opencsg.com/models) | [ **OpenCSG官网** ](https://opencsg.com/) | [ **HuggingFace** ](https://huggingface.co/opencsg) | [ **English** ](https://github.com/OpenCSGs/.github/blob/main/profile/README.md)
 </div>
 
 #### OpenCSG 开放传神
