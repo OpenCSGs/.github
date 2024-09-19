@@ -12,7 +12,8 @@ OpenCSG is an open-source and fair initiative established in 2023, dedicated to 
 
 OpenCSG stands for Converged resources, Software refined, and Generative LM. The 'C' represents Converged resources, indicating the integration and full utilization of hybrid resources. The 'S' stands for Software refined, signifying software that is refined by large models. The 'G' represents Generative LM, which denotes widespread, inclusive, and democratized generative large models.
 
-The vision of OpenCSG is to empower every industry, every company, and every individual to own their models. Our goal is to help enterprise reduce costs and increase efficiency in the process of developing and implementing LLMs and their applications.
+The vision of OpenCSG is to empower every industry, every company, and every individual to own their models.
+Our goal is to help enterprise reduce costs and increase efficiency in the process of developing and implementing LLMs and their applications.
 
 We adhere to the principles of openness and open source, making the large model software stack of OpenCSG available to the community. We welcome everyone to use, feedback, and collaborative contribute.
 
